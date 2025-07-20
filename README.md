@@ -15,15 +15,24 @@ It allows users to:
 📂 Project Structure
 
 ├── index.html       # Dashboard
-├── signup.html      # Signup page
+|── signup.html      # Signup page
+|
 ├── login.html       # Login page
+|
 ├── list.html        # Single list view
+|
 ├── trash.html       # Trash management
+|
 ├── profile.html     # User profile page
+|
 ├── settings.html    # Settings page
+|
 ├── style.css        # Styles
+|
 ├── script.js        # Main logic
+|
 └── README.md        # Project description
+
 
 🚀 How To Run
 1️⃣ Clone or download the repo
