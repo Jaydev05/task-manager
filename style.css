@@ -1,0 +1,115 @@
+body.dark-mode {
+  background: #333;
+  color: #f8f9fa;
+}
+
+nav {
+  min-height: 100vh;
+}
+
+.list-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.dark-mode .list-card {
+  background: #444;
+  color: #fff;
+}
+
+/* ============================
+   ✅ DARK MODE GLOBAL
+   ============================ */
+
+body.dark-mode {
+  background-color: #121212;
+  color: #eee;
+}
+
+body.dark-mode nav {
+  background-color: #1f1f1f !important;
+}
+
+body.dark-mode main {
+  background-color: #121212;
+}
+
+body.dark-mode .list-card,
+body.dark-mode .card,
+body.dark-mode .modal-content {
+  background-color: #1f1f1f;
+  color: #eee;
+}
+
+body.dark-mode .nav-link {
+  color: #ccc !important;
+}
+
+body.dark-mode .nav-link:hover {
+  color: #fff !important;
+}
+
+body.dark-mode .btn-primary {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+body.dark-mode .btn-success {
+  background-color: #198754;
+}
+
+body.dark-mode .btn-warning {
+  background-color: #ffc107;
+  color: #212529;
+}
+
+body.dark-mode .btn-danger {
+  background-color: #dc3545;
+}
+
+body.dark-mode .form-control,
+body.dark-mode .form-select {
+  background-color: #333;
+  color: #eee;
+  border: 1px solid #555;
+}
+
+body.dark-mode input::placeholder {
+  color: #aaa;
+}
+
+body.dark-mode .list-group-item {
+  background-color: #1f1f1f;
+  color: #eee;
+  border: 1px solid #333;
+}
+
+
+body.dark-mode .modal-header,
+body.dark-mode .modal-footer {
+  border-color: #333;
+}
+
+body.dark-mode .form-check-label {
+  color: #eee;
+}
+
+body.dark-mode small.text-muted {
+  color: #ccc !important;  /* ✅ Lighter muted text in dark mode */
+}
+
+
+#trash-bin-btn {
+  background-color: black;
+  color: rgb(210, 210, 210);
+  border: none;
+}
+
+body.dark-mode #trash-bin-btn {
+  background-color:rgb(210, 210, 210);
+  color: black;
+}
+
+
