@@ -1,57 +1,49 @@
-# task-manager
-This is a basic Task Manager web application built using HTML, CSS, and JavaScript. It lets you:  ✅ Create multiple task lists  ✅ Add, edit, delete, and mark tasks as done  ✅ See reminders for today’s tasks  ✅ Manage deleted lists with a trash section  ✅ Update user profile settings  ✅ Supports dark mode toggle
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Tech](https://img.shields.io/badge/tech-HTML%2FCSS%2FJS-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-📌 To-Do Task Manager
-This is a simple web-based To-Do Task Manager built with HTML, CSS, and JavaScript.
-It allows users to:
+# Task Manager
 
-✅ Sign up & log in (local storage based)
-✅ Create task lists
-✅ Add, edit, delete, and mark tasks as done
-✅ Manage trash for deleted lists
-✅ View tasks due today with reminders
-✅ Profile & settings page (dark mode toggle)
+This is a basic Task Manager web application built using *HTML, CSS, and JavaScript*.
 
-📂 Project Structure
+## Features
 
-├── index.html       # Dashboard
-|── signup.html      # Signup page
-|
-├── login.html       # Login page
-|
-├── list.html        # Single list view
-|
-├── trash.html       # Trash management
-|
-├── profile.html     # User profile page
-|
-├── settings.html    # Settings page
-|
-├── style.css        # Styles
-|
-├── script.js        # Main logic
-|
-└── README.md        # Project description
+- ✅ *Create multiple task lists*
+- ✅ *Add, edit, delete, and mark tasks as done*
+- ✅ *Reminders for today’s tasks*
+- ✅ *Manage deleted lists with a trash section*
+- ✅ *Update user profile settings*
+- ✅ *Dark mode toggle*
 
+## Demo
 
-🚀 How To Run
-1️⃣ Clone or download the repo
-2️⃣ Open index.html or signup.html in your browser
-3️⃣ Start adding your tasks and lists!
+[View the repository on GitHub](https://github.com/Jaydev05/task-manager)
 
-⚙️ Features
-Local Storage Based: No backend, everything runs in your browser
-Authentication: Simple signup/login using local storage
-Trash: Deleted lists go to trash instead of instant removal
-Dark Mode: Toggle dark/light theme
-Reminders: Shows today’s due tasks on dashboard
+## Getting Started
 
-📜 License
-This is a basic student project — feel free to use or modify for learning!
+1. *Clone the repository:*
+   bash
+   git clone https://github.com/Jaydev05/task-manager.git
+   
+2. *Open the project:*
+   - Simply open the index.html file in your web browser.
 
-✨ Author
-Jaydev05
+No additional dependencies or build steps are required.
 
-🗝️ Keywords
-HTML CSS JavaScript To-Do App Task Manager Frontend Project Student Project
+## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project currently does not have a license. Please add one if you intend to make it open source.
+
+---
+
+Made with ❤ by [Jaydev05](https://github.com/Jaydev05)
